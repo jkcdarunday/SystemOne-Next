@@ -4,7 +4,7 @@ SystemOne-Next
 The next version of the registration system of the University of the Philippines Los Baños, SystemOne, whose goal is to be a more efficient version than the previous one in terms of performance.
 
 Software and Programming Language
-=================================
+---------------------------------
 
 The current choices are either [Node.JS](http://nodejs.org/) or [Apache/Lighttpd/Nginx+PHP](https://wiki.archlinux.org/index.php/LAMP).
 Programming in an object-oriented manner is much easier in PHP as compared to Node.JS. It would be preferable to program this way when working with several people.
